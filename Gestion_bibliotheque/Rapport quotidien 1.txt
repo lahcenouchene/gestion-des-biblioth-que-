@@ -1,0 +1,4 @@
+le rapport de la semaineLe nombre d'inscrit d'aujaurd'hui est:1
+Le nombre de Retour d'aujourd'hui:5
+ le nombre d'emprunts d'aujourd'hui est:3
+tout va bien

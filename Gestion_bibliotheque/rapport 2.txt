@@ -1,0 +1,6 @@
+le rapport de la semaine
+
+Le nombre d'inscrit d'aujaurd'hui est: 12
+Le nombre de Retour d'aujourd'hui: 12
+ le nombre d'emprunts d'aujourd'hui est: 12
+  zdeGV
